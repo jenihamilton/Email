@@ -1,3 +1,3 @@
 # Email
 
-Email code examples.
+Email code examples with mobile responsive screenshots.
